@@ -3,7 +3,6 @@
 <img src="https://github.com/jvt3112/jvt3112/blob/main/myImage.png">
 
 I am a thrid year undergraduate in Computer Science and Engineering at IIT Gandhinagar. I am very passionate about solving real world problems using Artificial Intelligence and Machine Learning. I love reading about new advancements in the field of Reinforcement Learning and Data Science.
-I am interested in Software and Web-Application development.
 
 
 <p align="center">
